@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SweetPatate or Stéphane Meresse both work for me.
+- 👋 Hi, I’m Stéphane Meresse.
 - 👀 I’m interested in everything related software engineering and User experience.
 - 🌱 I’m currently learning Azure, Node.js ,Pixel art, Spanish ect.
 - 📫 How to reach me ?
